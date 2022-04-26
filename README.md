@@ -1,2 +1,1 @@
-# AWS-yusufcan
-AWS myworks
+# clarusway-aws-11-22
